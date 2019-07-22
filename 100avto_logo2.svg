@@ -2,7 +2,8 @@
   <desc>This example uses the 'switch' element to provide a 
         fallback graphical representation of a paragraph, if 
         XHTML is not supported.</desc>
-
+  
+  <a xlink:href="https://developer.mozilla.org/"><text x="10" y="25">MDN Web Docs</text></a>
   <!-- The 'switch' element will process the first child element
        whose testing attributes evaluate to true.-->
   <switch>
