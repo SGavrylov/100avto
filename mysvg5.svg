@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns:zhtml="http://www.w3.org/1999/xhtml"
+ >
+
+<g xmlns="http://www.w3.org/2000/svg" id="image1"  style="opacity: 1;">
+<foreignObject id="image1-img" x="-160" y="-120" width="320" height="240" preserveAspectRatio="xMinYMin slice" xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="8aug2007.ogg">
+    <div xmlns="http://www.w3.org/1999/xhtml" id="image1-div">
+        <video id="image1-video" style="display: block; margin: auto;" src="https://www.paulirish.com/work/octopus.ogv" controls="">
+        </video>
+    </div>
+</foreignObject><rect id="image1-border" x="-160" y="-120" width="320" height="240" stroke="black" rx="10" ry="10" stroke-width="20" fill="none"/>
+</g>
+</svg>
