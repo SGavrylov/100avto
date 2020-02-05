@@ -1,0 +1,16 @@
+<asx version="3.0">
+  <title>Example.com Live Stream</title>
+ 
+  <entry>
+    <title>Short Announcement to Play Before Main Stream</title>
+    <ref href="https://dl.espressif.com/dl/audio/gs-16b-2c-44100hz.wma" />
+    <param name="aParameterName" value="aParameterValue" />
+  </entry>
+   
+  <entry>
+    <title>Example radio</title>
+    <ref href="https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/audio-samples.html" />
+    <author>Example.com</author>
+    <copyright>©2005 Example.com</copyright>
+  </entry>
+</asx>
