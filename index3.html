@@ -1,0 +1,24 @@
+<html>
+<head>
+</head>
+<body>
+test
+</body>
+</html>
+<script>
+function createframe(){
+        var ahead = document.body;
+        var mainfs = document.createElement('FRAMESET');
+        mainfs.setAttribute("name", "mainframeset");
+        mainfs.setAttribute("id", "mfs");
+        mainfs.setAttribute("cols", "50,*");
+        ahead.appendChild(mainfs);
+        for ( var i = 0; i < 2; i++) {
+          var ifrm = document.createElement("IFRAME"); 
+            ifrm.setAttribute("src", "https://kinokrad.co/332804-2019-my-2019.html"); 
+            ifrm.setAttribute("sandbox", "allow-scripts allow-same-origin allow-presentation") ;
+          document.getElementById('mfs').appendChild(ifrm);
+          }
+}
+window.addEventListener("load", createframe, false);
+</script>
