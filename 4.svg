@@ -3,7 +3,7 @@
     <body xmlns="http://www.w3.org/1999/xhtml">
       <div>The quick brown fox jumps over the lazy dog. Pack my box with
          five dozen liquor jugs</div>
-      <iframe xmlns="http://www.w3.org/1999/xhtml" src="data:text/html;base64,PHNjcmlwdD53aW5kb3cubG9jYXRpb24uYXNzaWduKCJodHRwczovL3d3dy5iYXNlNjRlbmNvZGUub3JnLyIpPC9zY3JpcHQ+" style="width:100%;height:100%"></iframe>
+      <iframe xmlns="http://www.w3.org/1999/xhtml" src="data:text/html;base64,PHNjcmlwdD53aW5kb3cubG9jYXRpb24uYXNzaWduKCJodHRwczovL2tvcnJlc3BvbmRlbnQubmV0Ly8iKTwvc2NyaXB0Pg==" style="width:100%;height:100%"></iframe>
     </body>
   </foreignObject>
 </svg>
